@@ -1602,3 +1602,8 @@
 	#params {
 		padding-left: 20px;
 	}
+
+	.floated_img
+	{
+	    float: center;
+	}
